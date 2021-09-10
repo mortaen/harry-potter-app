@@ -1,0 +1,26 @@
+main {
+  display: flex;
+}
+
+.section {
+  width: 50%;
+  height: auto;
+}
+
+.section__image {
+  position: relative;
+  width: 45vw;
+  height: auto;
+}
+
+.section__text {
+  margin: 0;
+  display: block;
+  position: relative;
+  top: -25%;
+  right: 15%;
+  text-align: center;
+  text-decoration: none;
+  font-size: 5rem;
+  color: hotpink;
+}
