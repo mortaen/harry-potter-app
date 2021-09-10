@@ -1,0 +1,23 @@
+{
+  "name": "harry-potter-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortaen/harry-potter-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mortaen/harry-potter-app/issues"
+  },
+  "homepage": "https://github.com/mortaen/harry-potter-app#readme",
+  "dependencies": {
+    "vite": "^2.5.6"
+  }
+}
